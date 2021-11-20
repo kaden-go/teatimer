@@ -38,7 +38,8 @@ class Window(QWidget):
 if __name__ == "__main__":
     # create pyqt5 app
     app = QApplication(sys.argv)
-    
+    # test comment 
+
     # create the instance of our Window
     window = Window()
     
